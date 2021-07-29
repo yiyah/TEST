@@ -2,7 +2,12 @@
 Q1: Describe the issue
 -->
 
+<details>
+<summary><code>Problem description</code></summary>
+
 ⚠️⚠️ REPLACE WITH DESCRIPTION
+
+</details>
 
 <!--
 Q2: Describe the steps to reproduce, like below
